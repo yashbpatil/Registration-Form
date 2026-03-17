@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 100%;
+  padding: 50px 700px 50px 600px;
+}
+.form-reg {
+  padding: 20px;
+  border: 1px solid black;
+  background-color: rgb(192, 225, 236);
+  text-align: center;
+}
+input {
+  background-color: rgb(243, 241, 241);
+  color: white;
+  border: none;
+  padding: 5px;
+}
+button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(243, 241, 241);
+}
+button:hover {
+  background-color: red;
+}
